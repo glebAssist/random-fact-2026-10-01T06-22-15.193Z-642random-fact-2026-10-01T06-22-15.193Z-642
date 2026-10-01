@@ -1,2 +1,5 @@
-# random-fact-2026-10-01T06-22-15.193Z-642random-fact-2026-10-01T06-22-15.193Z-642
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The Great Pyramids used to be as white as snow because they were encased in a bright limestone that has worn off over the years
+
+*Generated on 2026-10-01T06:22:18.151Z*
